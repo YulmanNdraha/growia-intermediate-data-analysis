@@ -15,7 +15,7 @@ Analisis data intermediate menggunakan **Python**, **Pandas**, dan **Matplotlib*
 Dataset yang digunakan berasal dari Kaggle:
 
 > **Sales Transaction v.4a.csv**  
-> [Link Kaggle Dataset](https://www.kaggle.com) *(masukkan link tepatnya di sini kalau sudah ada)*
+> [Link Kaggle Dataset](https://www.kaggle.com) *(https://www.kaggle.com/datasets/gabrielramos87/an-online-shop-business)*
 
 Dataset ini berisi data transaksi penjualan lengkap dengan tanggal transaksi, produk, quantity, dan customer ID yang digunakan untuk melakukan analisis tren, segmentasi, dan retensi.
 
