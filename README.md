@@ -1,6 +1,4 @@
-# 📊 Growia Intermediate Data Analysis
-
-Analisis data intermediate menggunakan **Python**, **Pandas**, dan **Matplotlib** untuk mengidentifikasi tren penjualan, segmentasi pelanggan, dan strategi retensi pelanggan.
+Proyek ini merupakan bagian dari sertifikasi Intermediate Data Analysis. Analisis dilakukan menggunakan Python, Pandas, dan Matplotlib untuk mengidentifikasi tren penjualan, segmentasi pelanggan, dan strategi retensi pelanggan.
 
 ## 👤 Penulis
 **Yulman Ndraha**
